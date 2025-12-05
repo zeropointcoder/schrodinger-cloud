@@ -17,5 +17,5 @@ pip3 install -r requirements.txt
 
 ## Run
 ```bash
-python3 sandbox.py
+python3 quantum_fourier_transform.py
 ```
