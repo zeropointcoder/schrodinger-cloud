@@ -1,14 +1,13 @@
-# Quantum Fourier Transform
+# Quantum Kernel SVM
 
-Implements the Quantum Fourier Transform on a quantum state.
+A complete, class-based implementation of a Quantum Kernel SVM using Qiskit’s AerSimulator and scikit-learn’s SVM.
 
 ## Overview
-- **Initialisation**: Set up a quantum circuit with n qubits.
-- **Hadamard Gates**: Apply Hadamard to each qubit to create superposition.
-- **Controlled Phase Rotations**: Add controlled-phase gates between qubits with decreasing angles.
-- **Qubit Reversal**: Swap qubits to reverse the order (standard in QFT).
-- **Simulation**: Use AerSimulator to simulate the quantum circuit.
-- **Visualisation**: Plot measurement results as a histogram.
+- **Feature map** encodes classical data into quantum states via parameterised circuits.
+- **Quantum kernel** computes pairwise state fidelities (overlaps) using the swap-test or the statevector simulator.
+- **Kernel matrix** is passed directly into a classical SVM (SVC(kernel="precomputed")).
+- **Training** occurs entirely classically, using quantum-computed similarities.
+- **Prediction** uses the test–train kernel matrix computed in the same way.
 
 ## Requirements
 ```bash

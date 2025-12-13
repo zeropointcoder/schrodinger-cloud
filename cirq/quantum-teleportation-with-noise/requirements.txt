@@ -2,3 +2,4 @@ cirq
 matplotlib 
 numpy
 scipy
+scikit-learn

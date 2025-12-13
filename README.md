@@ -35,7 +35,7 @@
 | 30 | [Teleportation with Noise](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/cirq/quantum-teleportation-with-noise) | Error/Noise | Cirq |
 | 31 | [Circuit Learning for XOR](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/xor-circuit-learning) | Quantum ML | Qiskit |
 | 32 | [Quantum Hybrid Classifier](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/quantum-hybrid-classifier) | Quantum ML | Qiskit |
-| 33 | Quantum Kernel SVM | Quantum ML | Qiskit |
+| 33 | [Quantum Kernel SVM](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/quantum-kernel-svm) | Quantum ML | Qiskit |
 | 34 | Bell Inequality Test | Entanglement | Qiskit |
 | 35 | MaxCut with VQE | Optimisation | Qiskit / Cirq |
 | 36 | Quantum Walk Simulation | Simulation | Qiskit |
