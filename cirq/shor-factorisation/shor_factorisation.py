@@ -66,7 +66,7 @@ def simulate_shors_algorithm(N):
 
     # Output the results
     print("\nMeasurement results:")
-    print(result)
+    print(result, "\n")
 
     plt.show()
 

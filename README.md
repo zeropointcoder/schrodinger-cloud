@@ -64,7 +64,7 @@
 | 59 | Quantum SVM on MNIST | Quantum ML | Hybrid (Qiskit + Cirq + TFQ) |
 | 60 | Quantum PCA | Quantum ML | Qiskit |
 | 61 | Ising Model Simulation | Physics Simulation | Cirq |
-| 62 | QAOA for TSP | Optimisation | Qiskit |
+| 62 | QAOA for TSP | Optimisation | Cirq |
 | 63 | Portfolio Optimisation | Finance | Qiskit |
 | 64 | Quantum Hamiltonian Simulation | Physics | Cirq |
 | 65 | Quantum State Discrimination | Quantum Info | Cirq |
@@ -88,7 +88,7 @@
 | 83 | QAOA on Larger Graph | Optimisation | Cirq |
 | 84 | Circuit Benchmark (Qiskit vs Cirq) | Comparison | Hybrid (Qiskit + Cirq) |
 | 85 | Quantum GAN (2D Distribution) | Generative | Hybrid (Qiskit + Cirq + TFQ) |
-| 86 | Quantum RL with QAOA Env | RL | Hybrid (Qiskit + TFQ) |
+| 86 | Quantum RL with QAOA Env | RL | Hybrid (Cirq + TFQ) |
 | 87 | Error-Corrected Teleportation | Fault-Tolerance | Cirq |
 | 88 | QAOA MaxCut (Real Graph) | Optimisation | Cirq |
 | 89 | Circuit Compression (Param Sharing) | Optimisation | Qiskit |
