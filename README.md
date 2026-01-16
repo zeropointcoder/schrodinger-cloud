@@ -108,5 +108,5 @@
 | DP3 | Core Deep Project 3: Pulse-Level Quantum Control | pulse-level programming, Hamiltonian control, GRAPE optimization, backend calibration parameters  | Qiskit |
 | RP4 | Research Project 4: Reproduce a Real Quantum Research Paper | quantum chemistry, Hamiltonian decomposition, advanced simulation algorithms, scientific benchmarking  | Cirq |
 | RP5 | Research Project 5: Variational Quantum Eigensolver with Active Space Reduction | chemistry basis sets, UCCSD ansatz, classical pre-processing, active space partitioning, orbital reduction | Cirq |
-| HC6 | Hardware/Compiler Project 6: Quantum Transpiler Optimization Pass | Qiskit Terra internals, DAGCircuit, pass manager, routing heuristics, hardware-aware optimization | Qiskit |
+| HC6 | Hardware/Compiler Project 6: Quantum Transpiler Optimization Pass | Qiskit Terra internals, DAGCircuit, pass manager, routing heuristics, hardware-aware optimization | Cirq |
 | HC7 | Hardware/Compiler Project 7: Noise-Aware Benchmarking Suite | randomized benchmarking, purity benchmarking, zero-noise extrapolation, measurement error mitigation, noise tomography | Qiskit |
