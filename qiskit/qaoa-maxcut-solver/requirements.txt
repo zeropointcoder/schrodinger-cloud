@@ -1,7 +1,0 @@
-qiskit 
-qiskit-aer 
-qiskit-nature 
-matplotlib 
-networkx
-numpy
-scipy

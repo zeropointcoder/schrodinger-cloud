@@ -26,14 +26,14 @@
 | 21 | [Grover’s Algorithm for Simple Search (2-qubit)](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/grover-simple-search) | Algorithm | Qiskit |
 | 22 | [Grover’s Algorithm for Simple Search (3-qubit)](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/grover-simple-search) | Algorithm | Qiskit |
 | 23 | [Simulated Shor’s Algorithm for Factoring Small Numbers](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/cirq/shor-factorisation) | Algorithm | Cirq |
-| 24 | [VQE for H₂ Molecule](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/vqe-h2-simulator) | Variational | Qiskit |
+| 24 | [VQE for H₂ Molecule](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/vqe-h2-simulator) | Variational | Cirq |
 | 25 | [QAOA on Small Graph](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/qaoa-maxcut-solver) | Optimisation | Cirq |
 | 26 | [Simulate 2-Qubit Noise](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/cirq/simulate-2qubit-noise) | Noise | Cirq |
 | 27 | [Quantum Phase Estimation (1-qubit)](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/one-qubit-qpe) | Algorithm | Qiskit |
 | 28 | [Phase Estimation (2–3 qubits)](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/cirq/qpe-three-qubits) | Algorithm | Cirq |
 | 29 | [Quantum Fourier Transform](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/quantum-fourier-transform) | Algorithm | Qiskit |
 | 30 | [Teleportation with Noise](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/cirq/quantum-teleportation-with-noise) | Error/Noise | Cirq |
-| 31 | [Circuit Learning for XOR](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/xor-circuit-learning) | Quantum ML | Qiskit |
+| 31 | [Circuit Learning for XOR](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/xor-circuit-learning) | Quantum ML | Cirq |
 | 32 | [Quantum Hybrid Classifier](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/quantum-hybrid-classifier) | Quantum ML | Qiskit |
 | 33 | [Quantum Kernel SVM](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/quantum-kernel-svm) | Quantum ML | Qiskit |
 | 34 | Bell Inequality Test | Entanglement | Qiskit |
