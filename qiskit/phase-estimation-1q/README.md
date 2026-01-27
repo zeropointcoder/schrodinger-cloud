@@ -1,4 +1,4 @@
-# One-Qubit QPE
+# Phase Estimation One-Qubit
 
 `Quantum Phase Estimation` extracts the phase `φ` of a unitary operator `U` such that `U|ψ⟩ = e^{2πiφ}|ψ⟩` using controlled applications of `U` and an inverse `Quantum Fourier Transform`.
 

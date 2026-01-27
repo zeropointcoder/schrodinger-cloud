@@ -1,4 +1,4 @@
-# QPE 3 Qubits
+# Phase Estimation 3 Qubits
 `Phase Estimation` (PE) in quantum computing estimates the phase ϕ of an eigenvalue `e^2πiϕ` of a unitary operator `U`. In a Cirq implementation with 2-3 qubits, the algorithm uses a sequence of Hadamard gates and controlled-unitary operations to estimate this phase.
 
 ## Overview
