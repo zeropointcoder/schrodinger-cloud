@@ -1,4 +1,4 @@
-# Grover’s Algorithm – Simple Search (2 Qubits)
+# Grover’s Algorithm – Search (2 Qubits)
 
 Implement `Grover’s Search` algorithm using **Qiskit**, for 2-qubit systems.
 
