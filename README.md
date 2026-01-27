@@ -29,7 +29,7 @@
 | 24 | [VQE for H₂ Molecule](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/vqe-h2-simulator) | Variational | Cirq |
 | 25 | [QAOA on Small Graph](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/qaoa-maxcut-solver) | Optimisation | Cirq |
 | 26 | [Simulate 2-Qubit Noise](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/cirq/simulate-2qubit-noise) | Noise | Cirq |
-| 27 | [Quantum Phase Estimation (1-qubit)](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/one-qubit-qpe) | Algorithm | Qiskit |
+| 27 | [Phase Estimation (1-qubit)](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/phase-estimation-1q) | Algorithm | Qiskit |
 | 28 | [Phase Estimation (2–3 qubits)](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/cirq/phase-estimation-3q) | Algorithm | Cirq |
 | 29 | [Quantum Fourier Transform](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/quantum-fourier-transform) | Algorithm | Qiskit |
 | 30 | [Teleportation with Noise](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/cirq/quantum-teleportation-with-noise) | Error/Noise | Cirq |
