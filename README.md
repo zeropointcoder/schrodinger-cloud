@@ -23,8 +23,8 @@
 | 18 | [Quantum Oracle Construction](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/quantum-oracle-construction) | Algorithm | Qiskit |
 | 19 | [Simple Quantum Game](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/simple-quantum-game) | Simulation | Qiskit |
 | 20 | [Bell Pair Teleportation](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/bell-pair-teleportation) | Visualisation | Qiskit |
-| 21 | [Grover’s Algorithm for Simple Search (2-qubit)](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/grover-simple-search) | Algorithm | Qiskit |
-| 22 | [Grover’s Algorithm for Simple Search (3-qubit)](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/grover-simple-search) | Algorithm | Qiskit |
+| 21 | [Grover’s Algorithm for Search (2-qubit)](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/grover-search-2q) | Algorithm | Qiskit |
+| 22 | [Grover’s Algorithm for Search (3-qubit)](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/grover-search-3q) | Algorithm | Qiskit |
 | 23 | [Simulated Shor’s Algorithm for Factoring Small Numbers](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/cirq/shor-factorisation) | Algorithm | Cirq |
 | 24 | [VQE for H₂ Molecule](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/vqe-h2-simulator) | Variational | Cirq |
 | 25 | [QAOA on Small Graph](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/qaoa-maxcut-solver) | Optimisation | Cirq |
