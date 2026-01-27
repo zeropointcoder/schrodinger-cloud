@@ -110,3 +110,14 @@
 | RP5 | Research Project 5: Variational Quantum Eigensolver with Active Space Reduction | chemistry basis sets, UCCSD ansatz, classical pre-processing, active space partitioning, orbital reduction | Cirq |
 | HC6 | Hardware/Compiler Project 6: Quantum Transpiler Optimization Pass | Qiskit Terra internals, DAGCircuit, pass manager, routing heuristics, hardware-aware optimization | Cirq |
 | HC7 | Hardware/Compiler Project 7: Noise-Aware Benchmarking Suite | randomized benchmarking, purity benchmarking, zero-noise extrapolation, measurement error mitigation, noise tomography | Qiskit |
+
+
+
+### Qiskit broken install fix
+```bash
+### If you see "invalid environment mixing Qiskit <1.0 and ≥1.0":
+
+pip uninstall -y qiskit qiskit-terra qiskit-aer qiskit-ibmq-provider qiskit-ibm-provider
+pip cache purge
+pip3 install -r requirements.txt
+```
