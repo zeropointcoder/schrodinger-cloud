@@ -84,7 +84,7 @@
 | 79 | [Teleportation with Error Correction](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/) | Networked | Qiskit |
 | 80 | [Cloud Quantum Experiment](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/cirq/) | Real Hardware | Cirq |
 | 81 | [Quantum Fourier Transform (5 Qubits)](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/) | Algorithm | Qiskit |
-| 82 | [Shor’s Algorithm (6 Qubits)](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/cirq/) | Algorithm | Cirq |
+| 82 | [Shor’s Algorithm (8 Qubits)](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/cirq/) | Algorithm | Cirq |
 | 83 | [QAOA on Larger Graph](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/cirq/) | Optimisation | Cirq |
 | 84 | [Circuit Benchmark (Qiskit vs Cirq)](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/hybrid/) | Comparison | Hybrid (Qiskit + Cirq) |
 | 85 | [Quantum GAN (2D Distribution)](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/hybrid/) | Generative | Hybrid (Qiskit + Cirq + TFQ) |
