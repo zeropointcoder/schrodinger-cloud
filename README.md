@@ -112,6 +112,17 @@
 | HC7 | [Hardware/Compiler Project 7: Noise-Aware Benchmarking Suite](https://github.com/zeropointcoder/schrodinger-cloud/tree/main/qiskit/noise-benchmark-suite-hardware) | randomized benchmarking, purity benchmarking, zero-noise extrapolation, measurement error mitigation, noise tomography | Qiskit |
 
 
+### Clone fix
+```bash
+### After cloning:
+
+### 1. Create the shared environment for cirq, qiskit & hybrid apps
+- `cd /Users/leo/dev/schrodinger-cloud`
+- `python3 -m venv .venv`
+
+### 2. Activate it
+- `source /Users/leo/dev/schrodinger-cloud/.venv/bin/activate`
+```
 
 ### Qiskit broken install fix
 ```bash
