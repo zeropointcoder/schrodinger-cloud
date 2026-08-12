@@ -36,7 +36,7 @@ class QuantumNoiseSimulator:
         return result.get_counts()
 
     def plot_results(self, counts_without, counts_with):
-        fig, (ax1, ax2) = plt.subplots(1,2, figsize=(12,6))
+        fig, (ax1, ax2) = plt.subplots(1,2, figsize=(12,6)) # Creates a 12×6 inch figure with 1 row and 2 columns, and gives the whole figure as fig and the two plots as ax1 and ax2.
         ax1.set_title("Without Noise")
         plot_histogram(counts_without, ax=ax1)
         ax2.set_title("With Noise")
