@@ -15,7 +15,7 @@ class QuantumGame:
         print("\nWelcome to the Simple Quantum Game")
         print("Your qubit starts in the |0> state.")
         print("Available moves: X, H, Z")
-        print("Type done to finish and measure.\n")
+        print("Type done or q to finish and measure.\n")
 
     def apply_move(self, move: str):
         move = move.lower()
