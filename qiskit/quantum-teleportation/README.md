@@ -19,7 +19,7 @@ Implement quantum teleportation with measurement-based corrections and Bloch sph
 
 ## Requirements
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run

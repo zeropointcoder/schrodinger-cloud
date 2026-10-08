@@ -11,7 +11,7 @@ To implement `quantum amplitude amplification` using a `Grover-style` oracle and
 
 ## Requirements
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run

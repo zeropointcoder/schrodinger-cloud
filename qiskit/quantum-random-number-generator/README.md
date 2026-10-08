@@ -15,7 +15,7 @@ To implement a quantum-based random number generator that uses the quantum super
 
 ## Requirements
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run

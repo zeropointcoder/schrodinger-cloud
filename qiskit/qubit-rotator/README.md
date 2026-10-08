@@ -17,7 +17,7 @@ To Visualise Qubit Rotations on the `Bloch Sphere`.
 
 ## Requirements
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run

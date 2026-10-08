@@ -17,7 +17,7 @@ An interactive single-qubit quantum game that lets players manipulate a real qua
 
 ## Requirements
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run

@@ -10,7 +10,7 @@ Implement a reusable and modular quantum oracle construction for integration int
 
 ## Requirements
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run

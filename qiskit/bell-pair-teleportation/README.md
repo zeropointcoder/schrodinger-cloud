@@ -15,7 +15,7 @@ A visual, step-by-step demonstration of quantum state teleportation.
 
 ## Requirements
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run

@@ -19,7 +19,7 @@ To prepare a qubit in state `∣1⟩`, apply a classical `bit-flip` channel with
 
 ## Requirements
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run

@@ -11,7 +11,7 @@ Simulates a discrete-time quantum walk on two position qubits.
 
 ## Requirements
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run

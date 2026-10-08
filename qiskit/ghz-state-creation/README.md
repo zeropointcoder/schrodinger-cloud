@@ -17,7 +17,7 @@ This project demonstrates the creation of a `GHZ` state
 
 ## Requirements
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run

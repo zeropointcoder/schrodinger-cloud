@@ -12,7 +12,7 @@ Quantum teleportation with noise transfers a qubit’s state between two parties
 
 ## Requirements
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run

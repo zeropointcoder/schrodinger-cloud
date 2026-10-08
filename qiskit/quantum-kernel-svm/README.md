@@ -11,7 +11,7 @@ To implement a Quantum Kernel SVM using scikit-learn’s SVM.
 
 ## Requirements
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run

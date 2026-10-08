@@ -19,7 +19,7 @@ A trainable quantum circuit that learns the XOR function and outputs predicted p
 
 ## Requirements
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run

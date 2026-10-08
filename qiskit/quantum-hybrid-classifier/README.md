@@ -67,7 +67,7 @@ Classical Input (x0, x1)
 ```
 ## Requirements
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run
