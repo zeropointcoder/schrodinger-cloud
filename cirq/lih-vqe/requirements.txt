@@ -1,4 +1,4 @@
 cirq
 matplotlib
 numpy
-scipy
+sympy
