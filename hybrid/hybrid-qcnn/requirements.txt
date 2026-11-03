@@ -1,0 +1,10 @@
+qiskit
+qiskit-aer
+matplotlib
+
+cirq
+
+sympy
+numpy
+
+tensorflow
