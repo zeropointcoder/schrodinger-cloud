@@ -1,0 +1,7 @@
+numpy
+cirq
+qiskit
+qiskit-aer
+matplotlib
+scikit-learn
+tensorflow
