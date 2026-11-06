@@ -1,4 +1,0 @@
-cirq
-matplotlib
-numpy
-scipy
