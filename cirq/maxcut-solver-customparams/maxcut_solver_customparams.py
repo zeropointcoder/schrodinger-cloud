@@ -35,8 +35,8 @@ class QAOASimulator:
         self.circuit = circuit
         self.simulator = cirq.Simulator()
 
-    def run(self, repititions=1000):
-        result = self.simulator.run(self.circuit, repetitions=repititions)
+    def run(self, repetitions=1000):
+        result = self.simulator.run(self.circuit, repetitions=repetitions)
         bitstrings = ["".join(map(str, bits)) for bits in result.measurements["result"]]
         return Counter(bitstrings)
 
@@ -55,7 +55,7 @@ if __name__ == "__main__":
     print(circuit)
 
     simulator = QAOASimulator(circuit)
-    counts = simulator.run(repititions=500)
+    counts = simulator.run(repetitions=500)
 
     print("\nMeasurement counts:")
     print(counts, "\n")

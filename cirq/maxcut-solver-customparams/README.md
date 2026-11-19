@@ -1,4 +1,4 @@
-# QAOA Maxcut Solver
+# QAOA Maxcut Solver - Custom Params
 
 QAOA-based MaxCut approximation on a small graph using Cirq.
 
@@ -24,5 +24,5 @@ pip install -r requirements.txt
 
 ## Run
 ```bash
-python3 qaoa_maxcut_solver.py
+python3 maxcut_solver_customparams.py
 ```
