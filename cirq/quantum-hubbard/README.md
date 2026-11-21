@@ -15,7 +15,7 @@ A Hubbard model quantum simulation using Cirq.
     - Measure all qubits to get occupation probabilities
 
 - Simulation:
-    - Cirq’s Simulator executes the circuit
+    - Cirq's Simulator executes the circuit
     - Results converted to bitstring counts, representing electron configurations
 
 - Run:
