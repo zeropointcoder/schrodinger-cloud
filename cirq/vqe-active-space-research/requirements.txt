@@ -1,0 +1,6 @@
+cirq
+openfermion
+openfermionpyscf
+scipy
+matplotlib
+numpy
